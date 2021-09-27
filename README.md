@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New for Amazon Connect: Voice ID, Wisdom, and Outbound Communications](https://aws.amazon.com/blogs/aws/three-new-capabilities-for-amazon-connect/)
 - [Amazon QuickSight Q – Business Intelligence Using Natural Language Questions](https://aws.amazon.com/blogs/aws/amazon-quicksight-q-business-intelligence-using-natural-language-questions/)
 - [AWS Cloud Builders – Career Transformation & Personal Growth](https://aws.amazon.com/blogs/aws/aws-cloud-builders-career-transformation-personal-growth/)
 - [New for AWS Distro for OpenTelemetry – Tracing Support is Now Generally Available](https://aws.amazon.com/blogs/aws/new-for-aws-distro-for-opentelemetry-tracing-support-is-now-generally-available/)
 - [In the Works – AWS Region in New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
-- [Scaling Ad Verification with Machine Learning and AWS Inferentia](https://aws.amazon.com/blogs/aws/scaling-ad-verification-with-machine-learning-and-aws-inferentia/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
