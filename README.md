@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Local Zones Are Now Open in Las Vegas, New York City, and Portland](https://aws.amazon.com/blogs/aws/aws-local-zones-are-now-open-in-las-vegas-new-york-city-and-portland/)
 - [Amazon RDS Custom for Oracle – New Control Capabilities in Database Environment](https://aws.amazon.com/blogs/aws/amazon-rds-custom-for-oracle-new-control-capabilities-in-database-environment/)
 - [Help Make BugBusting History at AWS re:Invent 2021](https://aws.amazon.com/blogs/aws/help-make-bugbusting-history-at-aws-reinvent-2021/)
 - [New Strategy Recommendations Service Helps Streamline AWS Cloud Migration and Modernization](https://aws.amazon.com/blogs/aws/new-strategy-recommendations-service-helps-streamline-aws-cloud-migration-and-modernization/)
 - [Computer Vision at the Edge with AWS Panorama](https://aws.amazon.com/blogs/aws/computer-vision-at-the-edge-with-aws-panorama/)
-- [New – AWS Data Exchange for Amazon Redshift](https://aws.amazon.com/blogs/aws/new-aws-data-exchange-for-amazon-redshift/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
