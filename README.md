@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Scalable, Cost-Effective Disaster Recovery in the Cloud](https://aws.amazon.com/blogs/aws/scalable-cost-effective-disaster-recovery-in-the-cloud/)
 - [Meet the latest AWS Heroes – November 2021](https://aws.amazon.com/blogs/aws/meet-the-latest-aws-heroes-november-2021/)
 - [New – EC2 Instances &lpar;G5&rpar; with NVIDIA A10G Tensor Core GPUs](https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/)
 - [Measure and Improve Your Application Resilience with AWS Resilience Hub](https://aws.amazon.com/blogs/aws/monitor-and-improve-your-application-resiliency-with-resilience-hub/)
 - [In The Works – AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/blogs/aws/in-the-works-aws-canada-west-calgary-region/)
-- [Announcing Fully Managed RStudio on Amazon SageMaker for Data Scientists](https://aws.amazon.com/blogs/aws/announcing-fully-managed-rstudio-on-amazon-sagemaker-for-data-scientists/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
