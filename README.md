@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New AWS Scholarship Program Helps Underrepresented and Underserved Students Prep for Careers in AI and ML](https://aws.amazon.com/blogs/aws/new-aws-scholarship-program-helps-underrepresented-and-underserved-students-prep-for-careers-in-ai-and-ml/)
+- [Now in Preview – Amazon SageMaker Studio Lab, a Free Service to Learn and Experiment with ML](https://aws.amazon.com/blogs/aws/now-in-preview-amazon-sagemaker-studio-lab-a-free-service-to-learn-and-experiment-with-ml/)
 - [Announcing Amazon SageMaker Inference Recommender](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-recommender/)
 - [New – Introducing SageMaker Training Compiler](https://aws.amazon.com/blogs/aws/new-introducing-sagemaker-training-compiler/)
 - [New – Create and Manage EMR Clusters and Spark Jobs with Amazon SageMaker Studio](https://aws.amazon.com/blogs/aws/new-create-and-manage-emr-clusters-and-spark-jobs-with-amazon-sagemaker-studio/)
-- [Announcing Amazon SageMaker Ground Truth Plus](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-ground-truth-plus/)
-- [New DynamoDB Table Class – Save Up To 60% in Your DynamoDB Costs](https://aws.amazon.com/blogs/aws/new-dynamodb-table-class-save-up-to-60-in-your-dynamodb-costs/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
