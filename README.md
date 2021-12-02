@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/)
+- [New – Sustainability Pillar for AWS Well-Architected Framework](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework/)
+- [Announcing General Availability of Construct Hub and AWS Cloud Development Kit Version 2](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/)
 - [Use New Amazon EC2 M1 Mac Instances to Build &amp; Test Apps for iPhone, iPad, Mac, Apple Watch, and Apple TV](https://aws.amazon.com/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/)
 - [New – Site-to-Site Connectivity with AWS Direct Connect SiteLink](https://aws.amazon.com/blogs/aws/new-site-to-site-connectivity-with-aws-direct-connect-sitelink/)
-- [New – Enhanced Dead-letter Queue Management Experience for Amazon SQS Standard Queues](https://aws.amazon.com/blogs/aws/enhanced-dlq-management-sqs/)
-- [Network Address Management and Auditing at Scale with Amazon VPC IP Address Manager](https://aws.amazon.com/blogs/aws/network-address-management-and-auditing-at-scale-with-amazon-vpc-ip-address-manager/)
-- [New – Amazon VPC Network Access Analyzer](https://aws.amazon.com/blogs/aws/new-amazon-vpc-network-access-analyzer/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
