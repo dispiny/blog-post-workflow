@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Amazon GuardDuty Enhances Detection of EC2 Instance Credential Exfiltration](https://aws.amazon.com/blogs/aws/amazon-guardduty-enhances-detection-of-ec2-instance-credential-exfiltration/)
 - [A New AWS Console Home Experience](https://aws.amazon.com/blogs/aws/a-new-aws-console-home-experience/)
 - [New – Amazon EC2 Hpc6a Instance Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc6a-instance-optimized-for-high-performance-computing/)
 - [Amazon Elastic Kubernetes Service Adds IPv6 Networking](https://aws.amazon.com/blogs/aws/amazon-elastic-kubernetes-service-adds-ipv6-networking/)
 - [Now Open – AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-jakarta-region/)
-- [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
