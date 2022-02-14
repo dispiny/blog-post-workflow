@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New – Amazon EC2 C6a Instances Powered By 3rd Gen AMD EPYC Processors for Compute-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/)
 - [New for App Runner – VPC Support](https://aws.amazon.com/blogs/aws/new-for-app-runner-vpc-support/)
 - [NEW – Replicate Existing Objects with Amazon S3 Batch Replication](https://aws.amazon.com/blogs/aws/new-replicate-existing-objects-with-amazon-s3-batch-replication/)
 - [Demonstrate your AWS Cloud Storage knowledge and skills with new digital badges!](https://aws.amazon.com/blogs/aws/demonstrate-your-aws-cloud-storage-knowledge-and-skills-with-new-digital-badges/)
 - [New – Amazon EC2 X2iezn Instances Powered by the Fastest Intel Xeon Scalable CPU for Memory-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/)
-- [New – Replication for Amazon Elastic File System &lpar;EFS&rpar;](https://aws.amazon.com/blogs/aws/new-replication-for-amazon-elastic-file-system-efs/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
