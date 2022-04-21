@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Amazon SageMaker Serverless Inference – Machine Learning Inference without Worrying about Servers](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/)
 - [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/)
 - [Announcing the General Availability of AWS Amplify Studio](https://aws.amazon.com/blogs/aws/announcing-the-general-availability-of-aws-amplify-studio/)
 - [AWS IoT TwinMaker Is Now Generally Available](https://aws.amazon.com/blogs/aws/aws-iot-twinmaker-is-now-generally-available/)
 - [Automatically Detect Operational Issues in Lambda Functions with Amazon DevOps Guru for Serverless](https://aws.amazon.com/blogs/aws/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/)
-- [AWS Migration Hub Orchestrator – New Migration Orchestration Capability with Customizable Workflow Templates](https://aws.amazon.com/blogs/aws/aws-migration-hub-orchestrator-new-migration-orchestration-capability-with-customizable-workflow-templates/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
