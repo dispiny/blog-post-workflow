@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Modernize Your Mainframe Applications &amp; Deploy Them In The Cloud](https://aws.amazon.com/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/)
 - [AWS MGN Update – Configure DR, Convert CentOS Linux to Rocky Linux, and Convert SUSE Linux Subscription](https://aws.amazon.com/blogs/aws/aws-mgn-update-configure-dr-convert-centos-linux-to-rocky-linux-and-convert-suse-linux-subscription/)
 - [AWS Week In Review – June 6, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-6-2022/)
 - [Introducing the newest AWS Heroes – June 2022](https://aws.amazon.com/blogs/aws/introducing-the-newest-aws-heroes-june-2022/)
 - [Amazon EMR Serverless Now Generally Available – Run Big Data Applications without Managing Servers](https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/)
-- [AWS Week In Review – May 30, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-30-2022/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
