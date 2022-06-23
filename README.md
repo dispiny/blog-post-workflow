@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New – Amazon SageMaker Ground Truth Now Supports Synthetic Data Generation](https://aws.amazon.com/blogs/aws/new-amazon-sagemaker-ground-truth-now-supports-synthetic-data-generation/)
+- [Now in Preview – Amazon CodeWhisperer- ML-Powered Coding Companion](https://aws.amazon.com/blogs/aws/now-in-preview-amazon-codewhisperer-ml-powered-coding-companion/)
 - [AWS IoT ExpressLink Now Generally Available – Quickly Develop Devices That Connect Securely to AWS Cloud](https://aws.amazon.com/blogs/aws/aws-iot-expresslink-now-generally-available-quickly-develop-devices-that-connect-securely-to-aws-cloud/)
 - [New – High Volume Outbound Communication with Amazon Connect Outbound Campaigns](https://aws.amazon.com/blogs/aws/new-high-volume-outbound-communication-with-amazon-connect-outbound-campaigns/)
 - [AWS Week in Review – June 20, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-20-2022/)
-- [AWS Week in Review – June 13, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-13-2022/)
-- [New – Amazon EC2 R6id Instances with NVMe Local Instance Storage of up to 7.6 TB](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
