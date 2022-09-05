@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – September 5, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-5-2022/)
 - [AWS and VMware Announce VMware Cloud on AWS integration with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/aws-and-vmware-announce-vmware-cloud-on-aws-integration-with-amazon-fsx-for-netapp-ontap/)
 - [Now Open–AWS Region in the United Arab Emirates &lpar;UAE&rpar;](https://aws.amazon.com/blogs/aws/now-open-aws-region-in-the-united-arab-emirates-uae/)
 - [AWS Week in Review – August 29, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-29-2022/)
 - [Announcing the latest AWS Heroes – August 2022](https://aws.amazon.com/blogs/aws/announcing-the-latest-aws-heroes-august-2022/)
-- [New — Fine-Grained Visual Embedding Powered by Amazon QuickSight](https://aws.amazon.com/blogs/aws/new-fine-grained-visual-embedding-powered-by-amazon-quicksight/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
