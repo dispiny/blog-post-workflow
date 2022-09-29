@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Amazon WorkSpaces Introduces Ubuntu Desktops](https://aws.amazon.com/blogs/aws/amazon-workspaces-introduces-ubuntu-desktops/)
 - [AWS IoT FleetWise Now Generally Available – Easily Collect Vehicle Data and Send to the Cloud](https://aws.amazon.com/blogs/aws/aws-iot-fleetwise-now-generally-available-easily-collect-vehicle-data-and-send-to-the-cloud/)
 - [AWS Week In Review — September 26, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-26-2022/)
 - [Deploy your Amazon EKS Clusters Locally on AWS Outposts](https://aws.amazon.com/blogs/aws/deploy-your-amazon-eks-clusters-locally-on-aws-outposts/)
 - [AWS Week in Review – September 19, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-19-2022/)
-- [New – Direct VPC Routing Between On-Premises Networks and AWS Outposts Rack](https://aws.amazon.com/blogs/aws/new-direct-vpc-routing-between-on-premises-networks-and-aws-outposts-rack/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
