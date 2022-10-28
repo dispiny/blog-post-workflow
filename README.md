@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Named as a Leader in the 2022 Gartner Cloud Infrastructure &amp; Platform Services &lpar;CIPS&rpar; Magic Quadrant for the 12th Consecutive Year](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-the-2022-gartner-cloud-infrastructure-platform-services-cips-magic-quadrant-for-the-12th-consecutive-year/)
 - [Introducing Amazon Neptune Serverless – A Fully Managed Graph Database that Adjusts Capacity for Your Workloads](https://aws.amazon.com/blogs/aws/introducing-amazon-neptune-serverless-a-fully-managed-graph-database-that-adjusts-capacity-for-your-workloads/)
 - [AWS Batch for Amazon Elastic Kubernetes Service](https://aws.amazon.com/blogs/aws/aws-batch-for-amazon-elastic-kubernetes-service/)
 - [AWS Week in Review – October 24, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-october-24-2022/)
 - [AWS Week in Review – October 17, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-october-17-2020/)
-- [Amazon EC2 Trn1 Instances for High-Performance Model Training are Now Available](https://aws.amazon.com/blogs/aws/amazon-ec2-trn1-instances-for-high-performance-model-training-are-now-available/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
