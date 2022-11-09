@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [A New AWS Region Opens in Switzerland](https://aws.amazon.com/blogs/aws/a-new-aws-region-opens-in-switzerland/)
 - [Introducing AWS Resource Explorer – Quickly Find Resources in Your AWS Account](https://aws.amazon.com/blogs/aws/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/)
 - [AWS Week in Review – November 7, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-november-7-2022/)
 - [AWS Week in Review – October 31, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-october-31-2022/)
 - [AWS Named as a Leader in the 2022 Gartner Cloud Infrastructure &amp; Platform Services &lpar;CIPS&rpar; Magic Quadrant for the 12th Consecutive Year](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-the-2022-gartner-cloud-infrastructure-platform-services-cips-magic-quadrant-for-the-12th-consecutive-year/)
-- [Introducing Amazon Neptune Serverless – A Fully Managed Graph Database that Adjusts Capacity for Your Workloads](https://aws.amazon.com/blogs/aws/introducing-amazon-neptune-serverless-a-fully-managed-graph-database-that-adjusts-capacity-for-your-workloads/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
