@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
-- [Top Announcements of AWS re:Invent 2022](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2022/)
-- [New – Amazon RDS Optimized Reads and Optimized Writes](https://aws.amazon.com/blogs/aws/new-amazon-rds-optimized-reads-and-optimized-writes/)
-- [Classifying and Extracting Mortgage Loan Data with Amazon Textract](https://aws.amazon.com/blogs/aws/classifying-and-extracting-mortgage-loan-data-with-amazon-textract/)
-- [Protect Sensitive Data with Amazon CloudWatch Logs](https://aws.amazon.com/blogs/aws/protect-sensitive-data-with-amazon-cloudwatch-logs/)
-- [New – Amazon CloudWatch Cross-Account Observability](https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-cross-account-observability/)
+- [New – Failover Controls for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/blogs/aws/new-failover-controls-for-amazon-s3-multi-region-access-points/)
+- [Automated Data Discovery for Amazon Macie](https://aws.amazon.com/blogs/aws/automated-data-discovery-for-amazon-macie/)
+- [New – AWS Config Rules Now Support Proactive Compliance](https://aws.amazon.com/blogs/aws/new-aws-config-rules-now-support-proactive-compliance/)
+- [New AWS Glue 4.0 – New and Updated Engines, More Data Formats, and More](https://aws.amazon.com/blogs/aws/new-aws-glue-4-0-new-and-updated-engines-more-data-formats-and-more/)
+- [AWS Wickr – A Secure, End-to-End Encrypted Communication Service For Enterprises With Auditing And Regulatory Requirements](https://aws.amazon.com/blogs/aws/aws-wickr-a-secure-end-to-end-encrypted-communication-service-for-enterprises-with-auditing-and-regulatory-requirements/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
