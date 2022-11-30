@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
-- [Announcing Amazon DocumentDB Elastic Clusters](https://aws.amazon.com/blogs/aws/announcing-amazon-documentdb-elastic-clusters/)
-- [New — Amazon Athena for Apache Spark](https://aws.amazon.com/blogs/aws/new-amazon-athena-for-apache-spark/)
-- [AWS Verified Access Preview — VPN-less Secure Network Access to Corporate Applications](https://aws.amazon.com/blogs/aws/aws-verified-access-preview-vpn-less-secure-network-access-to-corporate-applications/)
-- [New – Announcing Automated Data Preparation for Amazon QuickSight Q](https://aws.amazon.com/blogs/aws/new-announcing-automated-data-preparation-for-amazon-quicksight-q/)
-- [Introducing VPC Lattice – Simplify Networking for Service-to-Service Communication &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-vpc-lattice-simplify-networking-for-service-to-service-communication-preview/)
+- [New ML Governance Tools for Amazon SageMaker – Simplify Access Control and Enhance Transparency Over Your ML Projects](https://aws.amazon.com/blogs/aws/new-ml-governance-tools-for-amazon-sagemaker-simplify-access-control-and-enhance-transparency-over-your-ml-projects/)
+- [Join the Preview – AWS Glue Data Quality](https://aws.amazon.com/blogs/aws/join-the-preview-aws-glue-data-quality/)
+- [New – Trusted Language Extensions for PostgreSQL on Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/aws/new-trusted-language-extensions-for-postgresql-on-amazon-aurora-and-amazon-rds/)
+- [Preview: Use Amazon SageMaker to Build, Train, and Deploy ML Models Using Geospatial Data](https://aws.amazon.com/blogs/aws/preview-use-amazon-sagemaker-to-build-train-and-deploy-ml-models-using-geospatial-data/)
+- [New – Redesigned UI for Amazon SageMaker Studio](https://aws.amazon.com/blogs/aws/new-redesigned-ui-for-amazon-sagemaker-studio/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
