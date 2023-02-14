@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New Graviton3-Based General Purpose &lpar;m7g&rpar; and Memory-Optimized &lpar;r7g&rpar; Amazon EC2 Instances](https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/)
 - [Week in Review – February 13, 2023](https://aws.amazon.com/blogs/aws/week-in-review-february-13-2023/)
 - [New – Visualize Your VPC Resources from Amazon VPC Creation Experience](https://aws.amazon.com/blogs/aws/new-visualize-your-vpc-resources-from-amazon-vpc-creation-experience/)
 - [AWS Week in Review – February 6, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-february-6-2023/)
 - [New – AWS CloudTrail Lake Supports Ingesting Activity Events From Non-AWS Sources](https://aws.amazon.com/blogs/aws/new-aws-cloudtrail-lake-supports-ingesting-activity-events-from-non-aws-sources/)
-- [New – Deployment Pipelines Reference Architecture and Reference Implementations](https://aws.amazon.com/blogs/aws/new_deployment_pipelines_reference_architecture_and_-reference_implementations/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
