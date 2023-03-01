@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New – Amazon Lightsail for Research with All-in-One Research Environments](https://aws.amazon.com/blogs/aws/new-amazon-lightsail-for-research-with-all-in-one-research-environments/)
 - [AWS Week in Review – February 27, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-february-27-2023/)
 - [New: AWS Telco Network Builder – Deploy and Manage Telco Networks](https://aws.amazon.com/blogs/aws/new-aws-telco-network-builder-deploy-and-manage-telco-networks/)
 - [AWS Week in Review – February 20, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-february-20-2023/)
 - [Behind the Scenes at AWS – DynamoDB UpdateTable Speedup](https://aws.amazon.com/blogs/aws/behind-the-scenes-at-aws-dynamodb-updatetable-speedup/)
-- [How to Connect Business and Technology to Embrace Strategic Thinking &lpar;Book Review&rpar;](https://aws.amazon.com/blogs/aws/how-to-connect-business-and-technology-to-embrace-strategic-thinking-book-review/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
