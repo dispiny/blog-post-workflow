@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Clean Rooms Now Generally Available — Collaborate with Your Partners without Sharing Raw Data](https://aws.amazon.com/blogs/aws/aws-clean-rooms-now-generally-available/)
 - [AWS Week in Review – March 20, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-20-2023/)
 - [AWS Chatbot Now Integrates With Microsoft Teams](https://aws.amazon.com/blogs/aws/aws-chatbot-now-integrates-with-microsoft-teams/)
 - [Amazon Linux 2023, a Cloud-Optimized Linux Distribution with Long-Term Support](https://aws.amazon.com/blogs/aws/amazon-linux-2023-a-cloud-optimized-linux-distribution-with-long-term-support/)
 - [Celebrate Amazon S3’s 17th birthday at AWS Pi Day 2023](https://aws.amazon.com/blogs/aws/celebrate-amazon-s3s-17th-birthday-at-aws-pi-day-2023/)
-- [New – Use Amazon S3 Object Lambda with Amazon CloudFront to Tailor Content for End Users](https://aws.amazon.com/blogs/aws/new-use-amazon-s3-object-lambda-with-amazon-cloudfront-to-tailor-content-for-end-users/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
