@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Application Migration Service Major Updates: Import and Export Feature, Source Server Migration Metrics Dashboard, and Additional Post-Launch Actions](https://aws.amazon.com/blogs/aws/aws-application-migration-service-major-updates-import-and-export-feature-source-server-migration-metrics-dashboard-and-additional-post-launch-actions/)
 - [Amazon Chime SDK Call Analytics: Real-Time Voice Tone Analysis and Speaker Search](https://aws.amazon.com/blogs/aws/amazon-chime-sdk-call-analytics-real-time-voice-tone-analysis-and-speaker-search/)
 - [AWS Week in Review – March 27, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-27-2023/)
 - [AWS Clean Rooms Now Generally Available — Collaborate with Your Partners without Sharing Raw Data](https://aws.amazon.com/blogs/aws/aws-clean-rooms-now-generally-available/)
 - [AWS Week in Review – March 20, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-20-2023/)
-- [AWS Chatbot Now Integrates With Microsoft Teams](https://aws.amazon.com/blogs/aws/aws-chatbot-now-integrates-with-microsoft-teams/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
