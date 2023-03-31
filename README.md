@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Simplify Service-to-Service Connectivity, Security, and Monitoring with Amazon VPC Lattice – Now Generally Available](https://aws.amazon.com/blogs/aws/simplify-service-to-service-connectivity-security-and-monitoring-with-amazon-vpc-lattice-now-generally-available/)
 - [Amazon GuardDuty Now Supports Amazon EKS Runtime Monitoring](https://aws.amazon.com/blogs/aws/amazon-guardduty-now-supports-amazon-eks-runtime-monitoring/)
 - [Announcing General Availability of Step-by-Step Guides for Amazon Connect Agent Workspace](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-step-by-step-guides-for-amazon-connect-agent-workspace/)
 - [How French Broadcaster TF1 Used AWS Cloud Technology and Expertise to Bring the FIFA World Cup to Millions](https://aws.amazon.com/blogs/aws/how-french-broadcaster-tf1-used-aws-cloud-technology-and-expertise-to-bring-the-fifa-world-cup-to-millions/)
 - [AWS Application Migration Service Major Updates: Import and Export Feature, Source Server Migration Metrics Dashboard, and Additional Post-Launch Actions](https://aws.amazon.com/blogs/aws/aws-application-migration-service-major-updates-import-and-export-feature-source-server-migration-metrics-dashboard-and-additional-post-launch-actions/)
-- [Amazon Chime SDK Call Analytics: Real-Time Voice Tone Analysis and Speaker Search](https://aws.amazon.com/blogs/aws/amazon-chime-sdk-call-analytics-real-time-voice-tone-analysis-and-speaker-search/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
