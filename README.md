@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Week in Review: Terraform in Service Catalog, AWS Supply Chain, Streaming Response in Lambda, and Amplify Library for Swift – April 10, 2023](https://aws.amazon.com/blogs/aws/week-in-review-terraform-in-service-catalog-aws-supply-chain-streaming-response-in-lambda-and-amplify-library-for-swift-april-10-2023/)
 - [New – Self-Service Provisioning of Terraform Open-Source Configurations with AWS Service Catalog](https://aws.amazon.com/blogs/aws/new-self-service-provisioning-of-terraform-open-source-configurations-with-aws-service-catalog/)
 - [AWS Supply Chain Now Generally Available – Mitigate Risks and Lower Costs with Increased Visibility and Actionable Insights](https://aws.amazon.com/blogs/aws/aws-supply-chain-now-generally-available-mitigate-risks-and-lower-costs-with-increased-visibility-and-actionable-insights/)
 - [AWS Week in Review: Public Preview of Amazon DataZone and AWS DataSync Updates – April 3, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-public-preview-of-amazon-datazone-and-aws-datasync-updates-april-3-2023/)
 - [New – Ready-to-use Models and Support for Custom Text and Image Classification Models in Amazon SageMaker Canvas](https://aws.amazon.com/blogs/aws/new-ready-to-use-models-and-support-for-custom-text-and-image-classification-models-in-amazon-sagemaker-canvas/)
-- [Simplify Service-to-Service Connectivity, Security, and Monitoring with Amazon VPC Lattice – Now Generally Available](https://aws.amazon.com/blogs/aws/simplify-service-to-service-connectivity-security-and-monitoring-with-amazon-vpc-lattice-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
