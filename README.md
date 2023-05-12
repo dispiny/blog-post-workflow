@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Learn How to Modernize Your Applications at AWS Serverless Innovation Day](https://aws.amazon.com/blogs/aws/learn-how-to-modernize-your-applications-at-aws-serverless-innovation-day/)
 - [New – Amazon Aurora I/O-Optimized Cluster Configuration with Up to 40% Cost Savings for I/O-Intensive Applications](https://aws.amazon.com/blogs/aws/new-amazon-aurora-i-o-optimized-cluster-configuration-with-up-to-40-cost-savings-for-i-o-intensive-applications/)
 - [New Storage-Optimized Amazon EC2 I4g Instances: Graviton Processors and AWS Nitro SSDs](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-i4g-instances-graviton-processors-and-aws-nitro-ssds/)
 - [AWS Week in Review – AWS User Notifications, Serverless event, and More – May 8, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-notifications-serverless-event-and-more-may-8-2023/)
 - [Introducing Bob’s Used Books—a New, Real-World, .NET Sample Application](https://aws.amazon.com/blogs/aws/introducing-bobs-used-books-a-new-real-world-net-sample-application/)
-- [New – Set Up Your AWS Notifications in One Place](https://aws.amazon.com/blogs/aws/new-set-up-your-aws-notifications-in-one-place/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
