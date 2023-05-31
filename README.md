@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New – Snowball Edge Storage Optimized Devices with More Storage and Bandwidth](https://aws.amazon.com/blogs/aws/new-snowball-edge-storage-optimized-devices-with-more-storage-and-bandwidth/)
 - [AWS Week in Review – AWS Wickr, Amazon Redshift, Generative AI, and More – May 29, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-wickr-amazon-redshift-generative-ai-and-more-may-29-2023/)
 - [AWS Week in Review – AWS Documentation Updates, Amazon EventBridge is Faster, and More – May 22, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-documentation-updates-amazon-eventbridge-is-faster-and-more-may-22-2023/)
 - [Amazon SageMaker Geospatial Capabilities Now Generally Available with Security Updates and More Use Case Samples](https://aws.amazon.com/blogs/aws/amazon-sagemaker-geospatial-capabilities-now-generally-available-with-security-updates-and-more-use-case-samples/)
 - [New – Simplify the Investigation of AWS Security Findings with Amazon Detective](https://aws.amazon.com/blogs/aws/new-simplify-the-investigation-of-aws-security-findings-with-amazon-detective/)
-- [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
