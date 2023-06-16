@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [How GoDaddy Implemented a Multi-Region Event-Driven Platform at Scale](https://aws.amazon.com/blogs/aws/how-godaddy-implemented-a-multi-region-event-driven-platform-at-scale/)
 - [Discover How AWS Designed Silicon Fuels Customer Outcomes at AWS Silicon Innovation Day](https://aws.amazon.com/blogs/aws/discover-how-aws-designed-silicon-fuels-customer-outcomes-at-aws-silicon-innovation-day/)
 - [New – Amazon S3 Dual-Layer Server-Side Encryption with Keys Stored in AWS Key Management Service &lpar;DSSE-KMS&rpar;](https://aws.amazon.com/blogs/aws/new-amazon-s3-dual-layer-server-side-encryption-with-keys-stored-in-aws-key-management-service-dsse-kms/)
 - [Simplify How You Manage Authorization in Your Applications with Amazon Verified Permissions – Now Generally Available](https://aws.amazon.com/blogs/aws/simplify-how-you-manage-authorization-in-your-applications-with-amazon-verified-permissions-now-generally-available/)
 - [AWS Week in Review – Automate DLQ Redrive for SQS, Lambda Supports Ruby 3.2, and More – June 12, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-automate-dlq-redrive-for-sqs-lambda-supports-ruby-3-2-and-more-june-12-2023/)
-- [New – Move Payment Processing to the Cloud with AWS Payment Cryptography](https://aws.amazon.com/blogs/aws/new-move-payment-processing-to-the-cloud-with-aws-payment-cryptography/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
