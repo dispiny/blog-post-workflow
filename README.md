@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New AWS AppFabric Improves Application Observability for SaaS Applications](https://aws.amazon.com/blogs/aws/new-aws-appfabric-improves-application-observability-for-saas-applications/)
 - [AWS Week in Review – Step Functions Versions and Aliases, EC2 Instances with Graviton3E Processors, and More – June 26, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-step-functions-versions-and-aliases-ec2-instances-with-graviton3e-processors-and-more-june-26-2023/)
 - [New – Amazon EC2 Hpc7g Instances Powered by AWS Graviton3E Processors Optimized for High Performance Computing Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7g-instances-powered-by-aws-graviton3e-processors-optimized-for-high-performance-computing-workloads/)
 - [New Amazon EC2 C7gn Instances: Graviton3E Processors and Up To 200 Gbps Network Bandwidth](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7gn-instances-graviton3e-processors-and-up-to-200-gbps-network-bandwidth/)
 - [Learn how to streamline and secure your SaaS applications at AWS Applications Innovation Day](https://aws.amazon.com/blogs/aws/learn-how-to-streamline-and-secure-your-saas-applications-at-aws-applications-innovation-day/)
-- [AWS Week in Review – Amazon EC2 Instance Connect Endpoint, Detective, Amazon S3 Dual Layer Encryption, Amazon Verified Permission – June 19, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-amazon-ec2-instance-connect-endpoint-detective-amazon-s3-dual-layer-encryption-amazon-verified-permission-june-19-2023/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
