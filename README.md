@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – AWS Glue Crawlers Now Supports Apache Iceberg, Amazon RDS Updates, and More – July 10, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-glue-crawlers-now-supports-apache-iceberg-amazon-rds-updates-and-more-july-10-2023/)
 - [New Solution – Clickstream Analytics on AWS for Mobile and Web Applications](https://aws.amazon.com/blogs/aws/new-solution-clickstream-analytics-on-aws-for-mobile-and-web-applications/)
 - [AWS Application Migration Service Major Updates: Global View, Import and Export from Local Disk, and Additional Post-launch Actions](https://aws.amazon.com/blogs/aws/aws-application-migration-service-major-updates-global-view-import-and-export-from-local-disk-and-additional-post-launch-actions/)
 - [AWS Week in Review – Generative AI with LLM Hands-on Course, Amazon SageMaker Data Wrangler Updates, and More – July 3, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-generative-ai-with-llm-hands-on-course-amazon-sagemaker-data-wrangler-updates-and-more-july-3-2023/)
 - [Generative AI with Large Language Models — New Hands-on Course by DeepLearning.AI and AWS](https://aws.amazon.com/blogs/aws/generative-ai-with-large-language-models-new-hands-on-course-by-deeplearning-ai-and-aws/)
-- [New AWS AppFabric Improves Application Observability for SaaS Applications](https://aws.amazon.com/blogs/aws/new-aws-appfabric-improves-application-observability-for-saas-applications/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
