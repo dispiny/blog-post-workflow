@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Welcome to AWS Storage Day 2023](https://aws.amazon.com/blogs/aws/welcome-to-aws-storage-day-2023/)
 - [Mountpoint for Amazon S3 – Generally Available and Ready for Production Workloads](https://aws.amazon.com/blogs/aws/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
 - [New – Improve Amazon S3 Glacier Flexible Restore Time By Up To 85% Using Standard Retrieval Tier and S3 Batch Operations](https://aws.amazon.com/blogs/aws/new-improve-amazon-s3-glacier-flexible-restore-time-by-up-to-85-using-standard-retrieval-tier-and-s3-batch-operations/)
 - [AWS Weekly Roundup – AWS Storage Day, AWS Israel &lpar;Tel Aviv&rpar; Region, and More – Aug 8, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-storage-day-aws-israel-tel-aviv-region-and-more-aug-8-2023/)
 - [New — Deliver Interactive Real-Time Live Streams with Amazon IVS](https://aws.amazon.com/blogs/aws/new-deliver-interactive-real-time-live-streams-with-amazon-ivs/)
-- [New Seventh-Generation General Purpose Amazon EC2 Instances &lpar;M7i-Flex and M7i&rpar;](https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
