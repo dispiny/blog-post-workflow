@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New – Amazon EC2 M7a General Purpose Instances Powered by 4th Gen AMD EPYC Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-m7a-general-purpose-instances-powered-by-4th-gen-amd-epyc-processors/)
 - [AWS Weekly Roundup – Amazon MWAA, EMR Studio, Generative AI, and More – August 14, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-mwaa-emr-studio-generative-ai-and-more-august-14-2023/)
 - [New — File Release for Amazon FSx for Lustre](https://aws.amazon.com/blogs/aws/new-file-release-for-amazon-fsx-for-lustre/)
 - [Welcome to AWS Storage Day 2023](https://aws.amazon.com/blogs/aws/welcome-to-aws-storage-day-2023/)
 - [Mountpoint for Amazon S3 – Generally Available and Ready for Production Workloads](https://aws.amazon.com/blogs/aws/mountpoint-for-amazon-s3-generally-available-and-ready-for-production-workloads/)
-- [New – Improve Amazon S3 Glacier Flexible Restore Time By Up To 85% Using Standard Retrieval Tier and S3 Batch Operations](https://aws.amazon.com/blogs/aws/new-improve-amazon-s3-glacier-flexible-restore-time-by-up-to-85-using-standard-retrieval-tier-and-s3-batch-operations/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
