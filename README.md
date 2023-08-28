@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup – AWS Dedicated Zones, Events and More – August 28, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-dedicated-zones-events-and-more-august-28-2023/)
 - [AWS Weekly Roundup – AWS AppSync, AWS CodePipeline, Events and More – August 21, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-appsync-aws-codepipeline-events-and-more-august-21-2023/)
 - [New – Amazon EC2 Hpc7a Instances Powered by 4th Gen AMD EPYC Processors Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7a-instances-powered-by-4th-gen-amd-epyc-processors-optimized-for-high-performance-computing/)
 - [Join AWS Hybrid Cloud &amp; Edge Day to Learn How to Deploy Your Applications in the Everywhere Cloud](https://aws.amazon.com/blogs/aws/join-aws-hybrid-cloud-edge-day-to-learn-how-to-deploy-your-applications-in-the-everywhere-cloud/)
 - [New – Amazon EC2 M7a General Purpose Instances Powered by 4th Gen AMD EPYC Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-m7a-general-purpose-instances-powered-by-4th-gen-amd-epyc-processors/)
-- [AWS Weekly Roundup – Amazon MWAA, EMR Studio, Generative AI, and More – August 14, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-mwaa-emr-studio-generative-ai-and-more-august-14-2023/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
