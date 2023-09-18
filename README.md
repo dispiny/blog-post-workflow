@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: C7i Instances, Knowledge Base for Amazon Bedrock, and More &lpar;Sept. 18, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-c7i-instances-knowledge-base-for-amazon-bedrock-and-more-sept-18-2023/)
 - [Preview – Connect Foundation Models to Your Company Data Sources with Agents for Amazon Bedrock](https://aws.amazon.com/blogs/aws/preview-connect-foundation-models-to-your-company-data-sources-with-agents-for-amazon-bedrock/)
 - [New – Amazon EC2 R7a Instances Powered By 4th Gen AMD EPYC Processors for Memory Optimized Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/)
 - [AWS Weekly Roundup: R7iz Instances, Amazon Connect, CloudWatch Logs, and Lots More &lpar;Sept. 11, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-r7iz-instances-amazon-connect-cloudwatch-logs-and-lots-more-sept-11-2023/)
 - [New Amazon EC2 R7iz Instances are Optimized for High CPU Performance, Memory-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/)
-- [The newest AWS Heroes are here – September 2023](https://aws.amazon.com/blogs/aws/the-newest-aws-heroes-are-here-september-2023/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
