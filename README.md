@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon EC2 M2 Pro Mac, Amazon Coretto 21, Amazon CloudWatch Synthetics, and more &lpar;Sept. 25, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m2-pro-mac-amazon-coretto-21-amazon-cloudwatch-synthetics-and-more-sept-25-2023/)
 - [New – Add Your Swift Packages to AWS CodeArtifact](https://aws.amazon.com/blogs/aws/new-add-your-swift-packages-to-aws-codeartifact/)
 - [New – Amazon EC2 M2 Pro Mac Instances Built on Apple Silicon M2 Pro Mac Mini Computers](https://aws.amazon.com/blogs/aws/new-amazon-ec2-m2-pro-mac-instances-built-on-apple-silicon-m2-pro-mac-mini-computers/)
 - [New – NVMe Reservations for Amazon Elastic Block Store io2 Volumes](https://aws.amazon.com/blogs/aws/new-nvme-reservations-for-amazon-elastic-block-store-io2-volumes/)
 - [AWS Weekly Roundup: C7i Instances, Knowledge Base for Amazon Bedrock, and More &lpar;Sept. 18, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-c7i-instances-knowledge-base-for-amazon-bedrock-and-more-sept-18-2023/)
-- [Preview – Connect Foundation Models to Your Company Data Sources with Agents for Amazon Bedrock](https://aws.amazon.com/blogs/aws/preview-connect-foundation-models-to-your-company-data-sources-with-agents-for-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
