@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New – Seventh Generation Memory-optimized Amazon EC2 Instances &lpar;R7i&rpar;](https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/)
+- [AWS Weekly Roundup – EBS Status Check, Textract Custom Queries, Amazon Linux 2, and more – October 16, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ebs-status-check-textract-custom-queries-amazon-linux-2-and-more-october-16-2023/)
 - [AWS Weekly Roundup: AWS Control Tower, Amazon Bedrock, Amazon OpenSearch Service, and More &lpar;October 9, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-control-tower-amazon-bedrock-amazon-opensearch-service-and-more-october-9-2023/)
 - [AWS ExecLeaders Data and Generative AI Day: Fueling Business Growth with Data and Generative AI](https://aws.amazon.com/blogs/aws/aws-execleaders-data-and-generative-ai-day-fueling-business-growth-with-data-and-generative-ai/)
 - [New – Amazon EC2 C7a Instances Powered By 4th Gen AMD EPYC Processors for Compute Optimized Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7a-instances-powered-by-4th-gen-amd-epyc-processors-for-compute-optimized-workloads/)
-- [Amazon DataZone Now Generally Available – Collaborate on Data Projects across Organizational Boundaries](https://aws.amazon.com/blogs/aws/amazon-datazone-now-generally-available-collaborate-on-data-projects-across-organizational-boundaries/)
-- [AWS Weekly Roundup – Amazon Bedrock Is Now Generally Available, Attend AWS Innovate Online, and More – Oct 2, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-is-now-generally-available-attend-aws-innovate-online-and-more-oct-2-2023/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
