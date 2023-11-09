@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New – Manage Planned Lifecycle Events on AWS Health](https://aws.amazon.com/blogs/aws/new-manage-planned-lifecycle-events-on-aws-health/)
 - [Amazon Aurora MySQL zero-ETL integration with Amazon Redshift is now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-mysql-zero-etl-integration-with-amazon-redshift-is-now-generally-available/)
 - [New – Create application-consistent snapshots using Amazon Data Lifecycle Manager and custom scripts](https://aws.amazon.com/blogs/aws/new-create-application-consistent-snapshots-using-amazon-data-lifecycle-manager-and-custom-scripts/)
 - [AWS Weekly Roundup—Reserve GPU capacity for short ML workloads, Finch is GA, and more—November 6, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-reserve-gpu-capacity-for-short-ml-workloads-finch-is-ga-and-more-november-6-2023/)
 - [Amazon EC2 Instance Metadata Service IMDSv2 by default](https://aws.amazon.com/blogs/aws/amazon-ec2-instance-metadata-service-imdsv2-by-default/)
-- [Announcing Amazon EC2 Capacity Blocks for ML to reserve GPU capacity for your machine learning workloads](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-capacity-blocks-for-ml-to-reserve-gpu-capacity-for-your-machine-learning-workloads/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
