@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Amazon Bedrock now provides access to Meta’s Llama 2 Chat 13B model](https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/)
+- [Amazon Bedrock now provides access to Cohere Command Light and Cohere Embed English and multilingual models](https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-cohere-command-light-and-cohere-embed-english-and-multilingual-models/)
 - [AWS Weekly Roundup – CloudFront security dashboard, EBS snapshots improvements, and more – November 13, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-cloudfront-security-dashboard-ebs-snapshots-improvements-and-more-november-13-2023/)
 - [New for Amazon SQS – Update the AWS SDK to reduce latency](https://aws.amazon.com/blogs/aws/new-for-amazon-sqs-update-the-aws-sdk-to-reduce-latency/)
 - [New – Block Public Sharing of Amazon EBS Snapshots](https://aws.amazon.com/blogs/aws/new-block-public-sharing-of-amazon-ebs-snapshots/)
-- [New for Amazon Comprehend – Toxicity Detection](https://aws.amazon.com/blogs/aws/new-for-amazon-comprehend-toxicity-detection/)
-- [New – Manage Planned Lifecycle Events on AWS Health](https://aws.amazon.com/blogs/aws/new-manage-planned-lifecycle-events-on-aws-health/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
