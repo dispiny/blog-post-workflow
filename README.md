@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [New – AWS Audit Manager now supports first third-party GRC integration](https://aws.amazon.com/blogs/aws/new-aws-audit-manager-now-supports-first-third-party-grc-integration/)
+- [AWS Glue Data Catalog now supports automatic compaction of Apache Iceberg tables](https://aws.amazon.com/blogs/aws/aws-glue-data-catalog-now-supports-automatic-compaction-of-apache-iceberg-tables/)
 - [Meet the final cohort of AWS Heroes this year – November 2023](https://aws.amazon.com/blogs/aws/meet-the-final-cohort-of-aws-heroes-this-year-november-2023/)
 - [Amazon Bedrock now provides access to Meta’s Llama 2 Chat 13B model](https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/)
 - [Amazon Bedrock now provides access to Cohere Command Light and Cohere Embed English and multilingual models](https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-cohere-command-light-and-cohere-embed-english-and-multilingual-models/)
-- [AWS Weekly Roundup – CloudFront security dashboard, EBS snapshots improvements, and more – November 13, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-cloudfront-security-dashboard-ebs-snapshots-improvements-and-more-november-13-2023/)
-- [New for Amazon SQS – Update the AWS SDK to reduce latency](https://aws.amazon.com/blogs/aws/new-for-amazon-sqs-update-the-aws-sdk-to-reduce-latency/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
