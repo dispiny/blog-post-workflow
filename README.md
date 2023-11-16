@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Build AI apps with PartyRock and Amazon Bedrock](https://aws.amazon.com/blogs/aws/build-ai-apps-with-partyrock-and-amazon-bedrock/)
 - [New – Amazon EBS Snapshot Lock](https://aws.amazon.com/blogs/aws/new-amazon-ebs-snapshot-lock/)
 - [New – Multi-account search in AWS Resource Explorer](https://aws.amazon.com/blogs/aws/new-multi-account-search-in-aws-resource-explorer/)
 - [New – AWS Audit Manager now supports first third-party GRC integration](https://aws.amazon.com/blogs/aws/new-aws-audit-manager-now-supports-first-third-party-grc-integration/)
 - [AWS Glue Data Catalog now supports automatic compaction of Apache Iceberg tables](https://aws.amazon.com/blogs/aws/aws-glue-data-catalog-now-supports-automatic-compaction-of-apache-iceberg-tables/)
-- [Meet the final cohort of AWS Heroes this year – November 2023](https://aws.amazon.com/blogs/aws/meet-the-final-cohort-of-aws-heroes-this-year-november-2023/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
