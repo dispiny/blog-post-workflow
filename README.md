@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Amazon CodeWhisperer offers new AI-powered code remediation, IaC support, and integration with Visual Studio](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-offers-new-ai-powered-code-remediation-iac-support-and-integration-with-visual-studio/)
 - [FlexGroup Volume Management for Amazon FSx for NetApp ONTAP is now available](https://aws.amazon.com/blogs/aws/flexgroup-volume-management-for-amazon-fsx-for-netapp-ontap-is-now-available/)
 - [New – Scale-out file systems for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/new-scale-out-file-systems-for-amazon-fsx-for-netapp-ontap/)
 - [Introducing shared VPC support for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/introducing-shared-vpc-support-for-amazon-fsx-for-netapp-ontap/)
 - [Announcing on-demand data replication for Amazon FSx for OpenZFS](https://aws.amazon.com/blogs/aws/on-demand-data-replication-for-amazon-fsx-for-openzfs/)
-- [AWS Lambda functions now scale 12 times faster when handling high-volume requests](https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
