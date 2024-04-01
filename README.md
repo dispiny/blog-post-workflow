@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup — AWS Chips Taste Test, generative AI updates, Community Days, and more — April 1, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-chips-taste-test-generative-ai-updates-community-days-and-more-april-1-2024/)
 - [Amazon GuardDuty EC2 Runtime Monitoring is now generally available](https://aws.amazon.com/blogs/aws/amazon-guardduty-ec2-runtime-monitoring-is-now-generally-available/)
 - [Run large-scale simulations with AWS Batch multi-container jobs](https://aws.amazon.com/blogs/aws/run-large-scale-simulations-with-aws-batch-multi-container-jobs/)
 - [AWS Weekly Roundup — Savings Plans, Amazon DynamoDB, AWS CodeArtifact, and more — March 25, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-savings-plans-amazon-dynamodb-aws-codeartifact-and-more-march-25-2024/)
 - [Improve the security of your software supply chain with Amazon CodeArtifact package group configuration](https://aws.amazon.com/blogs/aws/improve-the-security-of-your-software-supply-chain-with-amazon-codeartifact-package-group-configuration/)
-- [AWS Weekly Roundup — Claude 3 Haiku in Amazon Bedrock, AWS CloudFormation optimizations, and more — March 18, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-haiku-in-amazon-bedrock-aws-cloudformation-optimizations-and-more-march-18-2024/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
