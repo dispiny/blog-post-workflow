@@ -8,7 +8,7 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
-- [Meta’s Llama 3 models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/metas-llama-3-models-are-now-available-in-amazon-bedrock/)
+- [Meta Llama 3 models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/metas-llama-3-models-are-now-available-in-amazon-bedrock/)
 - [Guardrails for Amazon Bedrock now available with new safety filters and privacy controls](https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-now-available-with-new-safety-filters-and-privacy-controls/)
 - [Agents for Amazon Bedrock: Introducing a simplified creation and configuration experience](https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-introducing-a-simplified-creation-and-configuration-experience/)
 - [Amazon Bedrock model evaluation is now generally available](https://aws.amazon.com/blogs/aws/amazon-bedrock-model-evaluation-is-now-generally-available/)
