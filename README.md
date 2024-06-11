@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Audit Manager extends generative AI best practices framework to Amazon SageMaker](https://aws.amazon.com/blogs/aws/aws-audit-manager-extends-generative-ai-best-practices-framework-to-amazon-sagemaker/)
+- [Simplify AWS CloudTrail log analysis with natural language query generation in CloudTrail Lake &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/simplify-aws-cloudtrail-log-analysis-with-natural-language-query-generation-in-cloudtrail-lake-preview/)
 - [Introducing Amazon GuardDuty Malware Protection for Amazon S3](https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-malware-protection-for-amazon-s3/)
 - [IAM Access Analyzer Update: Extending custom policy checks &amp; guided revocation](https://aws.amazon.com/blogs/aws/iam-access-analyzer-update-extending-custom-policy-checks-guided-revocation/)
 - [AWS adds passkey multi-factor authentication &lpar;MFA&rpar; for root and IAM users](https://aws.amazon.com/blogs/aws/aws-adds-passkey-multi-factor-authentication-mfa-for-root-and-iam-users/)
-- [AWS Weekly Roundup: New AWS Heroes, Amazon API Gateway, Amazon Q and more &lpar;June 10, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-aws-heroes-amazon-api-gateway-amazon-q-and-more-june-10-2024/)
-- [Simplify risk and compliance assessments with the new common control library in AWS Audit Manager](https://aws.amazon.com/blogs/aws/simplify-risk-and-compliance-assessments-with-the-new-common-control-library-in-aws-audit-manager/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
