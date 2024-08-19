@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: G6e instances, Karpenter, Amazon Prime Day metrics, AWS Certifications update and more &lpar;August 19, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-g6e-instances-karpenter-amazon-prime-day-metrics-aws-certifications-update-and-more-august-19-2024/)
 - [How AWS powered Prime Day 2024 for record-breaking sales](https://aws.amazon.com/blogs/aws/how-aws-powered-prime-day-2024-for-record-breaking-sales/)
 - [AWS Weekly Roundup: Mithra, Amazon Titan Image Generator v2, AWS GenAI Lofts, and more &lpar;August 12, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-mithra-amazon-titan-image-generator-v2-aws-genai-lofts-and-more-august-12-2024/)
 - [Amazon Titan Image Generator v2 is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Amazon Q Business, AWS CloudFormation, Amazon WorkSpaces update, and more &lpar;Aug 5, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-business-aws-cloudformation-amazon-workspaces-update-and-more-aug-5-2024/)
-- [Plan your advertising campaigns with Amazon Marketing Cloud on AWS Clean Rooms, now generally available](https://aws.amazon.com/blogs/aws/plan-your-advertising-campaigns-with-amazon-marketing-cloud-on-aws-clean-rooms-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
