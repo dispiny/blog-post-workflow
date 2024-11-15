@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Centrally managing root access for customers using AWS Organizations](https://aws.amazon.com/blogs/aws/centrally-managing-root-access-for-customers-using-aws-organizations/)
 - [Introducing resource control policies &lpar;RCPs&rpar;, a new type of authorization policy in AWS Organizations](https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/)
 - [AWS BuilderCards second edition at re:Invent 2024](https://aws.amazon.com/blogs/aws/aws-buildercards-second-edition-available-at-reinvent-2024-and-online/)
 - [AWS Weekly Roundup: 20 years of AWS News Blog, Express brokers for Amazon MSK, Windows Server 2025 images on EC2, and more &lpar;Nov 11, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-20-years-of-aws-news-blog-express-brokers-for-amazon-msk-windows-server-2025-images-on-ec2-and-more-nov-11-2024/)
 - [Announcing new APIs for Amazon Location Service Routes, Places, and Maps](https://aws.amazon.com/blogs/aws/announcing-new-apis-for-amazon-location-service-routes-places-and-maps/)
-- [Introducing Express brokers for Amazon MSK to deliver high throughput and faster scaling for your Kafka clusters](https://aws.amazon.com/blogs/aws/introducing-express-brokers-for-amazon-msk-to-deliver-high-throughput-and-faster-scaling-for-your-kafka-clusters/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
