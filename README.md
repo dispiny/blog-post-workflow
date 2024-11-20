@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [Introducing Amazon CloudFront VPC origins: Enhanced security and streamlined operations for your applications](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-vpc-origins-enhanced-security-and-streamlined-operations-for-your-applications/)
+- [Amazon CloudFront now accepts your applications’ gRPC calls](https://aws.amazon.com/blogs/aws/amazon-cloudfront-now-accepts-your-applications-grpc-calls/)
 - [Streamline container application networking with built-in Amazon ECS support in Amazon VPC Lattice](https://aws.amazon.com/blogs/aws/streamline-container-application-networking-with-native-amazon-ecs-support-in-amazon-vpc-lattice/)
 - [AWS Lambda SnapStart for Python and .NET functions is now generally available](https://aws.amazon.com/blogs/aws/aws-lambda-snapstart-for-python-and-net-functions-is-now-generally-available/)
 - [Build and modify apps using natural language with AWS App Studio, now generally available](https://aws.amazon.com/blogs/aws/build-and-modify-apps-using-natural-language-with-aws-app-studio-now-generally-available/)
-- [AWS Lambda turns ten – looking back and looking ahead](https://aws.amazon.com/blogs/aws/aws-lambda-turns-ten-the-first-decade-of-serverless-innovation/)
-- [AWS Weekly Roundup: AWS BuilderCards at re:Invent 2024, AWS Community Day, Amazon Bedrock, vector databases, and more &lpar;Nov 18, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-buildercards-at-reinvent-2024-aws-community-day-amazon-bedrock-vector-databases-and-more-nov-18-2024/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
