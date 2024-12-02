@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
-- [New APIs in Amazon Bedrock to enhance RAG applications, now available](https://aws.amazon.com/blogs/aws/new-apis-in-amazon-bedrock-to-enhance-rag-applications-now-available/)
-- [Connect users to data through your apps with Storage Browser for Amazon S3](https://aws.amazon.com/blogs/aws/connect-users-to-data-through-your-apps-with-storage-browser-for-amazon-s3/)
-- [Introducing new PartyRock capabilities and free daily usage](https://aws.amazon.com/blogs/aws/introducing-new-partyrock-capabilities-and-free-daily-usage/)
-- [Amazon MemoryDB Multi-Region is now generally available](https://aws.amazon.com/blogs/aws/amazon-memorydb-multi-region-is-now-generally-available/)
-- [Introducing default data integrity protections for new objects in Amazon S3](https://aws.amazon.com/blogs/aws/introducing-default-data-integrity-protections-for-new-objects-in-amazon-s3/)
+- [Introducing Amazon GuardDuty Extended Threat Detection: AI/ML attack sequence identification for enhanced cloud security](https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-extended-threat-detection-aiml-attack-sequence-identification-for-enhanced-cloud-security/)
+- [Container Insights with enhanced observability now available in Amazon ECS](https://aws.amazon.com/blogs/aws/container-insights-with-enhanced-observability-now-available-in-amazon-ecs/)
+- [AWS Clean Rooms now supports multiple clouds and data sources](https://aws.amazon.com/blogs/aws/aws-clean-rooms-now-supports-multiple-clouds-and-data-sources/)
+- [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
+- [Enhance your productivity with new extensions and integrations in Amazon Q Business](https://aws.amazon.com/blogs/aws/enhance-your-productivity-with-new-extensions-and-integrations-in-amazon-q-business/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
