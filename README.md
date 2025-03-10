@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon Q CLI agent, AWS Step Functions, AWS Lambda, and more &lpar;March 10, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-cli-agent-aws-step-functions-aws-lambda-and-more-march-10-2025/)
 - [Scale and deliver game streaming experiences with Amazon GameLift Streams](https://aws.amazon.com/blogs/aws/scale-and-deliver-game-streaming-experiences-with-amazon-gamelift-streams/)
 - [New year, new Heroes – March 2025](https://aws.amazon.com/blogs/aws/new-year-new-heroes-march-2025/)
 - [Get insights from multimodal content with Amazon Bedrock Data Automation, now generally available](https://aws.amazon.com/blogs/aws/get-insights-from-multimodal-content-with-amazon-bedrock-data-automation-now-generally-available/)
 - [AWS Weekly Roundup: Anthropic Claude 3.7, JAWS Days, cross-account access, and more &lpar;March 3, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-claude-3-7-jaws-days-cross-account-access-and-more-march-3-2025/)
-- [Anthropic’s Claude 3.7 Sonnet hybrid reasoning model is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/anthropics-claude-3-7-sonnet-the-first-hybrid-reasoning-model-is-now-available-in-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
