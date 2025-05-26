@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Claude 4 in Amazon Bedrock, EKS Dashboard, community events, and more &lpar;May 26, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-4-in-amazon-bedrock-eks-dashboard-community-events-and-more-may-26-2025/)
 - [Introducing Claude 4 in Amazon Bedrock, the most powerful models for coding from Anthropic](https://aws.amazon.com/blogs/aws/claude-opus-4-anthropics-most-powerful-model-for-coding-is-now-in-amazon-bedrock/)
 - [Centralize visibility of Kubernetes clusters across AWS Regions and accounts with EKS Dashboard](https://aws.amazon.com/blogs/aws/centralize-visibility-of-kubernetes-clusters-across-aws-regions-and-accounts-with-eks-dashboard/)
 - [Configure System Integrity Protection &lpar;SIP&rpar; on Amazon EC2 Mac instances](https://aws.amazon.com/blogs/aws/configure-system-integrity-protection-sip-on-amazon-ec2-mac-instances/)
 - [Introducing the AWS Product Lifecycle page and AWS service availability updates](https://aws.amazon.com/blogs/aws/introducing-the-aws-product-lifecycle-page-and-aws-service-availability-updates/)
-- [Join AWS Cloud Infrastructure Day to learn cutting-edge innovations building global cloud infrastructure](https://aws.amazon.com/blogs/aws/join-aws-cloud-infrastructure-day-to-learn-cutting-edge-innovations-building-global-cloud-infrastructure/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
