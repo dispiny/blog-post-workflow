@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon S3, Amazon Bedrock AgentCore, AWS X-Ray and more &lpar;September 29, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-bedrock-agentcore-aws-x-ray-and-more-september-29-2025/)
 - [Accelerate AI agent development with the Nova Act IDE extension](https://aws.amazon.com/blogs/aws/accelerate-ai-agent-development-with-the-nova-act-ide-extension/)
 - [AWS Weekly Roundup: Amazon Q Developer, AWS Step Functions, AWS Cloud Club Captain deadline, and more &lpar;September 22, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-developer-aws-step-functions-aws-cloud-club-captain-deadline-and-more-september-22-2025/)
 - [Qwen models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/qwen-models-are-now-available-in-amazon-bedrock/)
 - [DeepSeek-V3.1 model now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/deepseek-v3-1-now-available-in-amazon-bedrock/)
-- [AWS named as a Leader in 2025 Gartner Magic Quadrant for Cloud-Native Application Platforms and Container Management](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-cloud-native-application-platforms-and-container-management/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
