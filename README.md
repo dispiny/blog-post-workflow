@@ -8,11 +8,11 @@
 1. Star this repo 😉 
 1. Go to your repository
 1. Add the following section to your **README.md** file, you can give whatever title you want. Just make sure that you use `<!-- BLOG-POST-LIST:START -->
-- [Accelerate AI development using Amazon SageMaker AI with serverless MLflow](https://aws.amazon.com/blogs/aws/accelerate-ai-development-using-amazon-sagemaker-ai-with-serverless-mlflow/)
-- [Amazon FSx for NetApp ONTAP now integrates with Amazon S3 for seamless data access](https://aws.amazon.com/blogs/aws/amazon-fsx-for-netapp-ontap-now-integrates-with-amazon-s3-for-seamless-data-access/)
-- [Introducing Amazon Nova 2 Lite, a fast, cost-effective reasoning model](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-2-lite-a-fast-cost-effective-reasoning-model/)
-- [New AWS Security Agent secures applications proactively from design to deployment &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/new-aws-security-agent-secures-applications-proactively-from-design-to-deployment-preview/)
-- [AWS Security Hub now generally available with near real-time analytics and risk prioritization](https://aws.amazon.com/blogs/aws/aws-security-hub-now-generally-available-with-near-real-time-analytics-and-risk-prioritization/)
+- [Announcing replication support and Intelligent-Tiering for Amazon S3 Tables](https://aws.amazon.com/blogs/aws/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/)
+- [Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables](https://aws.amazon.com/blogs/aws/amazon-s3-storage-lens-adds-performance-metrics-support-for-billions-of-prefixes-and-export-to-s3-tables/)
+- [Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents](https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/)
+- [Build multi-step applications and AI workflows with AWS Lambda durable functions](https://aws.amazon.com/blogs/aws/build-multi-step-applications-and-ai-workflows-with-aws-lambda-durable-functions/)
+- [New capabilities to optimize costs and improve scalability on Amazon RDS for SQL Server and Oracle](https://aws.amazon.com/blogs/aws/amazon-rds-for-oracle-and-rds-for-sql-server-add-new-capabilities-to-enhance-performance-and-optimize-costs/)
 <!-- BLOG-POST-LIST:END -->` in your readme. The workflow will replace this comment with the actual blog post list: 
     ```markdown
     # Blog posts
